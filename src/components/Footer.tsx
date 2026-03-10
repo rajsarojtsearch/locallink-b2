@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Facebook, Twitter, Instagram, Youtube, Mail, Phone } from "lucide-react";
+import { Facebook, Twitter, Instagram, Youtube, Mail, Phone, Github } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -27,6 +27,8 @@ const Footer = () => {
                 <a href="#" className="hover:text-primary transition-colors">
                   <Youtube className="h-5 w-5" />
                 </a>
+                <a href="https://github.com/rajsarojtsearch" className="hover:text-primary transition-colors">
+                  <Github className="h-5 w-5" />
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">

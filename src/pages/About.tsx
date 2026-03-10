@@ -12,7 +12,7 @@ const About = () => {
         {/* Hero */}
   <section className="bg-gradient-to-r from-[#467ae9ff] to-[#1d4ed8] text-primary-foreground py-10 md:py-16">
           <div className="container mx-auto px-3 md:px-4 text-center">
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-3 md:mb-4">About LocalLink</h1>
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-3 md:mb-4">About LocalLinks</h1>
             <p className="text-base md:text-lg lg:text-xl opacity-90 max-w-2xl mx-auto">
               Connecting communities with trusted local service providers
             </p>
@@ -26,8 +26,8 @@ const About = () => {
               <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6">Our Mission</h2>
               <p className="text-sm md:text-lg text-muted-foreground leading-relaxed">
                 LocalLink was founded with a simple mission: to make it easy for people to find and connect 
-                with trusted local service providers. We believe that quality services should be accessible 
-                to everyone, and that skilled professionals deserve a platform to grow their business.
+                with the trusted local service providers. We believe that quality services should be accessible 
+                to everyone, & that skilled professionals deserve a platform to grow their business.
               </p>
             </div>
 
