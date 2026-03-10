@@ -1,7 +1,7 @@
 
 # LocalLink
 
-[<img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Live Demo"/>](https://rajnikant357.github.io/LocalLink-b1/)
+[<img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Live Demo"/>](https://rajsarojtsearch.github.io/LocalLink-b1/)
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## Credits
 
-- Designed and developed by [Rajnikant357](https://github.com/rajnikant357)
-- Built in just **8 days**
+- Designed and developed by [Raj Saroj](https://github.com/rajsarojtsearch)
+- Built in just **15 days**
 
 ## Technology Stack
 
@@ -41,5 +41,5 @@
 
 ---
 
-[<img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Live Demo"/>](https://rajnikant357.github.io/LocalLink-b1/)
+[<img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-2563eb?style=for-the-badge&logo=github" alt="Live Demo"/>](https://rajsarojtsearch.github.io/LocalLink-b1/)
 
